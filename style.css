@@ -2,6 +2,12 @@ body {
     margin: 0;
     padding: 0;
 }
-header {background-color: rgb(179, 248, 214);}
-main {background-color: rgb(204, 161, 243);}
-footer {background-color: rgb(194, 113, 129);}
+header {
+    background-color: rgb(179, 248, 214);
+}
+main {
+    background-color: rgb(204, 161, 243);
+}
+footer {
+    background-color: rgb(194, 113, 129);
+}
