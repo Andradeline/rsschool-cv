@@ -9,6 +9,7 @@ body {
  background: ;
  color: ;
  -webkit-font-smoothing: antialiased;
+ max-width: 2564px;
 }
 
 body, input, button {
@@ -23,7 +24,6 @@ button {
 .header {
     background-color: #2C2C2C;
     height: 20%;
-    max-width: 2564px;
     height: 505px;
 }
 /*Стили для main*/
