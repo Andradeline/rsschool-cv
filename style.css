@@ -61,11 +61,13 @@ body {
     padding-left: 120px;
     padding-top: 40px;
 }
-.wraiper_name {
+.wrapper_name {
 font-size: 72px;
 font-weight: bold;
-margin-top: 164px;
+padding-top: 164px;
 margin-left: 638px;
+position: absolute;
+color: ;
 
 }
 /*Стили для main*/
