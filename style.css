@@ -140,6 +140,15 @@ position: absolute;
     padding-top: 160px;
     padding-left: 819px;
 }
+.text_myself {
+    font-weight: normal;
+    font-size: 52px;
+    color: #2C2C2C;
+    line-height: 84px;
+    width: 2080px;
+    padding-top: 346px;
+    padding-left: 181px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
