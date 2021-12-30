@@ -154,6 +154,14 @@ position: absolute;
     padding-top: 245px;
     padding-left: 180.93px;
 }
+.skills_wrapper {
+    position: absolute;
+    font-weight: bold;
+    font-size: 72px;
+    color: #4B76C4;
+    padding-top: 252px;
+    padding-left: 318.43px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
