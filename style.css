@@ -21,8 +21,10 @@ button {
 }
 /*Стили для header*/
 .header {
-    background-color: rgb(179, 248, 214);
+    background-color: #2C2C2C;
     height: 20%;
+    max-width: 2564px;
+    height: 505px;
 }
 /*Стили для main*/
 .main {
