@@ -162,6 +162,15 @@ position: absolute;
     padding-top: 252px;
     padding-left: 318.43px;
 }
+.skills_list {
+    position: absolute;
+    font-weight: bold;
+    font-size: 47px;
+    line-height: 100px;
+    padding-top: 412px;
+    padding-left: 310.12px;
+    color: #2C2C2C;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
