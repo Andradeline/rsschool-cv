@@ -60,14 +60,15 @@ body {
     height: 426px;
     padding-left: 120px;
     padding-top: 40px;
+    float: left;
 }
 .wrapper_name {
 font-size: 72px;
 font-weight: bold;
 padding-top: 164px;
-margin-left: 638px;
-position: absolute;
-color: ;
+padding-left: 638px;
+color: white;
+max-width: 617px;
 
 }
 /*Стили для main*/
