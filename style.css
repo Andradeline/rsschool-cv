@@ -149,6 +149,11 @@ position: absolute;
     padding-top: 346px;
     padding-left: 181px;
 }
+.skills_img img {
+    position: absolute;
+    padding-top: 245px;
+    padding-left: 180.93px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
