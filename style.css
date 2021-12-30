@@ -80,6 +80,15 @@ position: absolute;
     color: white;
     position: absolute;
 }
+.contacts_wrapper {
+    font-style: normal;
+    font-size: 52px;
+    font-weight: 500px;
+    color: white;
+    position: absolute;
+    padding-top: 102px;
+    padding-left: 1892px;
+}
 .contact {
     position: absolute;
     font-weight: 500;
