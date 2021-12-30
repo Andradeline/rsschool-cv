@@ -95,6 +95,13 @@ padding-top: 329px;
 padding-left: 1666px;
 position: 
 }
+.phone_img img {
+    position: absolute;
+}
+.email_img img {
+    position: absolute;
+    
+}
 /*Стили для main*/
 .main {
     background-color: rgb(204, 161, 243);
