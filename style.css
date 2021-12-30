@@ -171,6 +171,11 @@ position: absolute;
     padding-left: 310.12px;
     color: #2C2C2C;
 }
+.dots1 img {
+    position: absolute;
+    padding-top: 452px;
+    padding-left: 226.42px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
