@@ -97,10 +97,13 @@ position:
 }
 .phone_img img {
     position: absolute;
+    padding-top: 179px;
+    padding-right: ;
+    background: linear-gradient(223.98deg, #01DCBA 23.63%, #7F30CB 111.02%);;
 }
 .email_img img {
     position: absolute;
-    
+
 }
 /*Стили для main*/
 .main {
