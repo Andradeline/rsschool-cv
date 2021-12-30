@@ -46,12 +46,12 @@ table {
     border-spacing: 0;
 }
 body { 
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-style: normal;
 }
 /*Стили для header*/
 .header {
-    position: absolute;
+    position: relative;
     background-color: #2C2C2C;
     height: 505px;
 }
