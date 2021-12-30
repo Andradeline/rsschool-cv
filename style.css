@@ -61,6 +61,7 @@ body {
     padding-left: 120px;
     padding-top: 40px;
     float: left;
+    position: absolute;
 }
 .wrapper_name {
 font-size: 72px;
@@ -97,13 +98,13 @@ position:
 }
 .phone_img img {
     position: absolute;
-    padding-top: 179px;
-    padding-right: ;
-    background: linear-gradient(223.98deg, #01DCBA 23.63%, #7F30CB 111.02%);;
+    padding-top: 231px;
+    padding-left: 1551px;
 }
 .email_img img {
     position: absolute;
-
+    padding-top: 335px;
+    padding-left: 1551px;
 }
 /*Стили для main*/
 .main {
