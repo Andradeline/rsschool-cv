@@ -10,7 +10,7 @@ body {
  color: ;
  -webkit-font-smoothing: antialiased;
  max-width: 2564px;
- height: 3508px;
+ width: 100%;
 }
 
 body, input, button {
@@ -24,16 +24,16 @@ button {
 /*Стили для header*/
 .header {
     background-color: #2C2C2C;
-    height: 20%;
+    height: 15%;
     height: 505px;
 }
 /*Стили для main*/
 .main {
     background-color: rgb(204, 161, 243);
-    height: ;
+    height: 75px; ;
 }
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
-    height: ;
+    height: 10px; ;
 }
