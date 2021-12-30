@@ -1,7 +1,25 @@
-body {
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
 }
+
+body {
+ background: ;
+ color: ;
+ -webkit-font-smoothing: antialiased;
+}
+
+body, input, button {
+ font-size: ;
+ font-family: ;
+}
+
+button {
+ cursor: pointer;
+}
+
 .header {
     background-color: rgb(179, 248, 214);
     height: 20%;
