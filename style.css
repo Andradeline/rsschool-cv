@@ -217,6 +217,6 @@ position: absolute;
 }
 /*Стили для footer*/
 .footer {
-    background-color: rgb(194, 113, 129);
-    height: 10%;
+    background-color: #2C2C2C;
+    height: 254px;
 }
