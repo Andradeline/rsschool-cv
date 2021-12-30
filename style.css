@@ -24,8 +24,9 @@ button {
 }
 /*Стили для header*/
 .header {
+    position: relative;
     background-color: #2C2C2C;
-    height: 15%;
+    height: 505px;
 }
 /*Стили для main*/
 .main {
