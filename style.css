@@ -62,7 +62,10 @@ body {
     padding-top: 40px;
 }
 .wraiper_name {
-
+font-size: 72px;
+font-weight: bold;
+padding-top: 164px;
+padding-left: 638px;
 }
 /*Стили для main*/
 .main {
