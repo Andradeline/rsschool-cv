@@ -71,7 +71,11 @@ color: white;
 max-width: 617px;
 }
 .wrapper_location {
-    
+    padding-top: 79px;
+    padding-left: 638px;
+    font-weight: 500;
+    font-size: 48px;
+    color: white;
 }
 /*Стили для main*/
 .main {
