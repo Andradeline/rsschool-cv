@@ -51,6 +51,12 @@ table {
     background-color: #2C2C2C;
     height: 505px;
 }
+.ava {
+    max-width: 428px;
+    height: 426px;
+    left: 120px;
+    top: 40px;
+}
 /*Стили для main*/
 .main {
     background-color: rgb(204, 161, 243);
