@@ -69,13 +69,31 @@ padding-top: 164px;
 padding-left: 638px;
 color: white;
 max-width: 617px;
+position: absolute;
 }
 .wrapper_location {
-    padding-top: 79px;
+    padding-top: 329px;
     padding-left: 638px;
     font-weight: 500;
     font-size: 48px;
     color: white;
+    position: absolute;
+}
+.contact {
+    position: absolute;
+    font-weight: 500;
+    font-size: 48px;
+    color: white;
+}
+.phone {
+padding-top: 178px;
+padding-left: 1666px;
+position: absolute;
+}
+.email {
+padding-top: 329px;
+padding-left: 1666px;
+position: absolute;
 }
 /*Стили для main*/
 .main {
