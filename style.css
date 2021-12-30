@@ -2,15 +2,15 @@ body {
     margin: 0;
     padding: 0;
 }
-header {
+.header {
     background-color: rgb(179, 248, 214);
     height: 20%;
 }
-main {
+.main {
     background-color: rgb(204, 161, 243);
     height: 60%;
 }
-footer {
+.footer {
     background-color: rgb(194, 113, 129);
     height: 20%;
 }
