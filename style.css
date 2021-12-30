@@ -52,7 +52,7 @@ table {
     height: 505px;
 }
 .ava img {
-    max-width: 428px;
+    width: 428px;
     height: 426px;
     left: 120px;
     top: 40px;
