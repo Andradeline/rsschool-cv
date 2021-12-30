@@ -19,15 +19,17 @@ body, input, button {
 button {
  cursor: pointer;
 }
-
+/*Стили для header*/
 .header {
     background-color: rgb(179, 248, 214);
     height: 20%;
 }
+/*Стили для main*/
 .main {
     background-color: rgb(204, 161, 243);
     height: 60%;
 }
+/*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
     height: 20%;
