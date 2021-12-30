@@ -64,8 +64,9 @@ body {
 .wraiper_name {
 font-size: 72px;
 font-weight: bold;
-top: 32.48%;
-left: 24.88%;
+margin-top: 164px;
+margin-left: 638px;
+
 }
 /*Стили для main*/
 .main {
