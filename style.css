@@ -47,10 +47,11 @@ table {
 }
 body { 
     font-family: 'Fira Sans', sans-serif;
+    font-style: normal;
 }
 /*Стили для header*/
 .header {
-    position: relative;
+    position: absolute;
     background-color: #2C2C2C;
     height: 505px;
 }
@@ -59,6 +60,9 @@ body {
     height: 426px;
     padding-left: 120px;
     padding-top: 40px;
+}
+.wraiper_name {
+
 }
 /*Стили для main*/
 .main {
