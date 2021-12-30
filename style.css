@@ -200,6 +200,16 @@ position: absolute;
     padding-top: 399px;
     padding-left: 1328px;
 }
+.edu_text {
+    position: absolute;
+    padding-top: 370px;
+    padding-left: 1422.85px;
+    font-weight: bold;
+    font-size: 47px;
+    color: #2C2C2C;
+    width: 616.19px;
+    line-height: 100px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
