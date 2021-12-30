@@ -118,7 +118,14 @@ position:
 /*Стили для main*/
 .main {
     background-color: white;
-    
+    position: relative;
+    height: 2749px;
+}
+.myself_img img {
+    position: relative;
+    padding-top: 116px;
+    padding-left: 180.93px;
+
 }
 /*Стили для footer*/
 .footer {
