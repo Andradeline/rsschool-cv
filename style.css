@@ -195,6 +195,11 @@ position: absolute;
     padding-top: 230px;
     padding-left: 1431.29px;
 }
+.dote2 img {
+    position: absolute;
+    padding-top: 399px;
+    padding-left: 1328px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
