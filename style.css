@@ -133,6 +133,12 @@ color: #4B76C4;
 font-weight: bold;
 font-size: 72px;  
 line-height: 86px;
+position: absolute;
+}
+.line2 img {
+    position: absolute;
+    padding-top: 160px;
+    padding-left: 819px;
 }
 /*Стили для footer*/
 .footer {
