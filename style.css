@@ -122,10 +122,17 @@ position:
     height: 2749px;
 }
 .myself_img img {
-    position: relative;
+    position: absolute;
     padding-top: 116px;
     padding-left: 180.93px;
-
+}
+.about_myself {
+padding-top: 120px;
+padding-left: 313px;  
+color: #4B76C4;
+font-weight: bold;
+font-size: 72px;  
+line-height: 86px;
 }
 /*Стили для footer*/
 .footer {
