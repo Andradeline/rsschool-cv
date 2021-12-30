@@ -181,6 +181,11 @@ position: absolute;
     padding-top: 296.5px;
     padding-left: 742.32px;
 }
+.edu_img {
+    position: absolute;
+    padding-top: 212px;
+    padding-left: 1311px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
