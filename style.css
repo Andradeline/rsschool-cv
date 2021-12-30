@@ -176,6 +176,11 @@ position: absolute;
     padding-top: 452px;
     padding-left: 226.42px;
 }
+.line1 img{
+    position: absolute;
+    padding-top: 296.5px;
+    padding-left: 742.32px;
+}
 /*Стили для footer*/
 .footer {
     background-color: rgb(194, 113, 129);
