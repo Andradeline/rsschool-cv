@@ -183,8 +183,17 @@ position: absolute;
 }
 .edu_img {
     position: absolute;
-    padding-top: 212px;
-    padding-left: 1311px;
+    padding-top: 216px;
+    padding-left: 1328px;
+}
+.edu_wrap {
+    position: absolute;
+    font-weight: bold;
+    font-size: 72px;
+    line-height: 86px;
+    color: #4B76C4;
+    padding-top: 230px;
+    padding-left: 1431.29px;
 }
 /*Стили для footer*/
 .footer {
